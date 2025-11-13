@@ -26,7 +26,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         name: Generate 3D contributions
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.InCaelus_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Set up Git
