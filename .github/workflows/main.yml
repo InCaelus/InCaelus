@@ -31,7 +31,7 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config user.name "Adelio-IN"
+          git config user.name "InCaelus"
           git config user.email "2024011862@office.cju.ac.kr"
 
       - name: Pull remote changes with rebase
