@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=LEEIN&animation=fadeIn&type=blur&color=auto&height=300&section=header)
 <h3 align="center">I am a student majoring in Artificial Intelligence Software at Cheongju University.</h3>
-<p>시간 제한 없이 자고싶어요</p>
+<p align="center">시간 제한 없이 자고싶어요</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
