@@ -45,4 +45,4 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
