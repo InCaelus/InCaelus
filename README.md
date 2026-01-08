@@ -44,5 +44,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</picture>
 ![](./profile-3d-contrib/profile-green-animate.svg)
+</picture>
