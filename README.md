@@ -36,5 +36,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 </span><br/>&nbsp;&nbsp;&nbsp;
 <picture>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true&theme=radical)
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=InCaelus&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
 ![](./profile-3d-contrib/profile-night-green.svg)
