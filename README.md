@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=LEEIN&animation=fadeIn&type=blur&color=auto&height=300&section=header)
 <h3 align="center">I am a student majoring in Artificial Intelligence Software at Cheongju University.</h3>
-<p align="center">시간 제한 없이 자고싶어요</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
@@ -45,7 +44,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adelio-IN&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true" />
 </picture>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
