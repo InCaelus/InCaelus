@@ -7,8 +7,8 @@ on:
     inputs:
       commit_message:
         description: 'Commit message'
-        required: true
-        default: 'generated'
+        required: false
+        default: 'Update 3D Contributions'
         type: string
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     permissions:
-      contents: read
+      contents: write
     steps:
       - uses: actions/checkout@v3
         name: Checkout code
@@ -41,6 +41,9 @@ jobs:
       - name: Commit & Push
         run: |
           git add -A .
-          git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
+          MESSAGE="${{ github.event.inputs.commit_message }}"
+          if [ -z "$MESSAGE" ]; then
+            MESSAGE="Update 3D contributions $(date +'%Y-%m-%d')"
+          fi
+          git commit -m "$MESSAGE" || echo "No changes to commit"
           git push origin main
-
