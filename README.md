@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=LEEIN&animation=fadeIn&type=blur&color=auto&height=300&section=header)
-<h3 align="center">I am a student majoring in Artificial Intelligence Software at Cheongju University.</h3>
+<img width="2172" height="724" alt="InCaelus_banner" src="https://github.com/user-attachments/assets/91f4b029-f9f9-49e4-9b90-c6f2291f033b" />
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </p>
