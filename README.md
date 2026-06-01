@@ -67,4 +67,4 @@ AI가 빠르게 발전하는 만큼 개인정보 유출·보안 위협이라는 
 </picture>
 
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
