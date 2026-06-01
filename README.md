@@ -67,6 +67,6 @@ AI가 빠르게 발전하는 만큼 개인정보 유출·보안 위협이라는 
   />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true&theme=radical)
+![InCaelus's GitHub stats](https://github-readme-stats.vercel.app/api?username=InCaelus&show_icons=true&theme=radical)
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
